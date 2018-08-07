@@ -47,7 +47,6 @@ Timer::Timer() {
 /*
  * Timer Destructor
  */
-)
 Timer::~Timer() {
   //  Empty
 }
