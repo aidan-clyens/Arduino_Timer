@@ -1,0 +1,5 @@
+Timer		KEYWORD1
+
+initiate_pulse	KEYWORD2
+update_pulse	KEYWORD2
+wait		KEYWORD2
