@@ -113,3 +113,5 @@ void Timer::clear() {
   previous_millis = 0;
   initial_wait = false;
 }
+
+#endif
